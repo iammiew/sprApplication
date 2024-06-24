@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108275802221",
+    "project_id": "sprapplication-e5a0c",
+    "storage_bucket": "sprapplication-e5a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108275802221:android:e9fee67d97859772f65f64",
+        "android_client_info": {
+          "package_name": "com.example.sprapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDCLb4TNZrRo2b_2yjYdHWriP1uYVIr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
